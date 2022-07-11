@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **improving myself**
 
-- 🌱 I’m currently learning **Terraform, Microsoft Azure, Kubernetes**
+- 🌱 I’m currently learning **Python, Rust, Terraform, Microsoft Azure/AWS, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [www.lucaskoepke.com](www.lucaskoepke.com)
 
