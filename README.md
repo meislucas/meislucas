@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **improving myself**
 
-- 🌱 I’m currently learning **Python, Rust, Terraform, Microsoft Azure/AWS, Kubernetes**
+- 🌱 I’m currently learning ****
 
 - ⚡ Fun fact **🍔**
 
